@@ -3,7 +3,7 @@
 ### Data Analyst |  Python · SQL · Power BI · Excel
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-priyankaofficial-1a56db?style=flat-square)](https://www.datascienceportfol.io/priyankaofficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-mishra-data-analyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyankaofficial010)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:priyankaofficial010@gmail.com)
 
 ---
@@ -84,7 +84,7 @@ I'm actively looking for **Data Analyst** roles — full-time or contract, in No
 
 Feel free to reach out:
 - 📧 [priyankaofficial010@gmail.com](mailto:priyankaofficial010@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/data-by-priyanka/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyankaofficial010)
 - 🌐 [Portfolio Website](https://www.datascienceportfol.io/priyankaofficial)
 
 ---
