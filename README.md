@@ -1,92 +1,155 @@
 # Hi, I'm Priyanka Mishra 👋
 
-### Data Analyst |  Python · SQL · Power BI · Excel
+### Software Tester | Manual Testing | Java | Selenium | SQL
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-priyankaofficial-1a56db?style=flat-square)](https://www.datascienceportfol.io/priyankaofficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyankaofficial010)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:priyankaofficial010@gmail.com)
+I'm currently building my career in **Software Testing and Test Automation**.
 
----
-
-## About Me
-
-I'm a data analyst based in **Noida, India**, transitioning from financial services into data analytics. I spent a year as a Relationship Officer at **SBI Securities**, where I built Excel-based performance reports for 200+ client portfolios — that's when I realized I wanted to go deeper into data.
-
-Now I build end-to-end analytics projects, combining business domain knowledge with technical skills to answer questions that matter.
-
-**What makes me different:** I bring real BFSI context to data problems. I know what a portfolio manager actually needs from a dashboard, and I build with that in mind.
+My focus is on understanding software requirements, designing test scenarios and test cases, identifying defects, and learning automation using **Java and Selenium**.
 
 ---
 
-## 🛠 Technical Skills
+## 🧪 Software Testing Skills
 
-| Area | Tools |
-|------|-------|
-| **Visualization** | Power BI · DAX · Power Query · Excel |
-| **Database** | MySQL · SQL (Joins, CTEs, Subqueries) |
-| **Python** | Pandas · NumPy · Matplotlib · Seaborn |
-| **Environment** | Jupyter Notebook · VS Code · Git |
-| **Reporting** | Excel Pivot Tables · VLOOKUP · Conditional Formatting |
-
----
-
-## 📂 Featured Projects
-
-###  Retail Customer Behaviour Analysis
-> End-to-end analysis of ~3,900 rows of shopping data to identify purchase patterns, customer segments, and seasonal trends.
-
-**Stack:** Python · MySQL · Power BI · Excel  
-**What I did:** Data cleaning in Pandas → 15+ SQL queries for segmentation → Power BI interactive dashboard → Excel executive summary
-🔗 [View Repository](https://github.com/data-by-priyanka/retail-customer-behaviour-analysis)
+- Manual Testing
+- Functional Testing
+- Non-Functional Testing
+- Smoke Testing
+- Sanity Testing
+- Regression Testing
+- Retesting
+- Acceptance Testing
+- Black Box Testing
+- Test Case Design
+- Test Scenarios
+- Bug Reporting
+- Defect Life Cycle
+- Boundary Value Analysis
+- Equivalence Partitioning
+- Web Application Testing
 
 ---
 
-###  Cyclistic Bike-Share Analysis *(Google Capstone)*
-> Analysed how casual riders vs annual members use Cyclistic differently — and proposed a data-backed marketing strategy.
+## 🤖 Automation Testing
 
-**Stack:** Python · SQL · Power BI · Jupyter Notebook  
-🔗 [View Repository](https://github.com/data-by-priyanka/cyclistic-bike-share-analysis)
+- Java
+- Selenium WebDriver
+- Locators
+- Web Elements
+- Browser Automation
+- XPath
+- CSS Selectors
+- Test Automation Basics
 
 ---
 
+## 🗄️ Database Testing
 
-## 📜 Certifications
+- SQL
+- MySQL
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- JOINs
+- Subqueries
+- Aggregate Functions
 
-- **IBM Data Analyst Professional Certificate** — Coursera / IBM
-  🔗 [View Certificate](https://coursera.org/share/efda108331291b7d5bf687c679152c30)
-- **Google Advanced Data Analytics** — Coursera / Google
-  🔗 [View Certificate](https://coursera.org/share/2190d84b7adf590d7839050bbe307f18)
-- **Google Data Analytics** — Coursera / Google
-  🔗 [View Certificate](https://coursera.org/share/461a4f13b1416e5904030a520935c175)
+---
+
+## 💻 Programming
+
+**Java**
+
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Arrays
+- Methods
+- Constructors
+- OOPs
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Method Overloading
+- Method Overriding
+- Exception Handling
+
+---
+
+## 🌐 Web Testing
+
+- HTML
+- Forms
+- Registration Testing
+- Login Testing
+- Password Reset Testing
+- OTP Verification Testing
+- Input Validation
+- Positive & Negative Testing
+- UI Testing
+
+---
+
+## 📂 Projects
+
+### 🧪 Manual Testing Projects
+
+Practice projects covering:
+
+- Test Scenarios
+- Test Cases
+- Positive Testing
+- Negative Testing
+- Boundary Testing
+- Validation Testing
+- Defect Reporting
+
+### 🤖 Selenium Automation Projects
+
+Java + Selenium projects focused on automating web applications and practicing:
+
+- WebDriver
+- Locators
+- Web Elements
+- Browser Actions
+- XPath
+- Automation Test Cases
+
+### ☕ Java Practice
+
+Java programs covering core Java and OOP concepts required for Selenium automation.
+
+### 🗄️ SQL Practice
+
+SQL queries and database exercises for testing and data validation.
+
+---
+
+## 🛠️ Tools
+
+- IntelliJ IDEA
+- VS Code
+- Git
+- GitHub
+- Selenium WebDriver
+- MySQL
 
 ---
 
 ## 🎓 Education
 
-- **MBA** — Rural Management & Entrepreneurship Development (2019–2021)
-- **B.Sc.** — Biotechnology (2016–2019)
+**MBA — Rural Management & Entrepreneurship Development**
+
+**B.Sc. — Biotechnology**
 
 ---
 
-## 💼 Work Experience
+## 🎯 Career Goal
 
-**Relationship Officer · SBI Securities Ltd.**
-- Managed data and reporting for 200+ client portfolios
-- Built weekly Excel reports for branch management, reducing manual effort by ~40%
-- Used data insights to drive 15% increase in product adoption
+**Software Tester | QA Tester | Manual Tester | Automation Tester | Selenium Tester**
 
----
-
-
-## 📫 Let's Connect
-
-I'm actively looking for **Data Analyst** roles — full-time or contract, in Noida/Delhi NCR or remote.
-
-Feel free to reach out:
-- 📧 [priyankaofficial010@gmail.com](mailto:priyankaofficial010@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/priyankaofficial010)
-- 🌐 [Portfolio Website](https://www.datascienceportfol.io/priyankaofficial)
-
----
-
-*"Data is the new oil — I'm here to refine it."*
+📍 Noida / Delhi NCR
