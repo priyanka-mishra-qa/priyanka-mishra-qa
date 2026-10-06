@@ -1,20 +1,16 @@
 # Hi, I'm Priyanka Mishra 👋
 
-### Software Tester | Manual Testing | Java | Selenium | SQL
+### Software Tester | Manual Testing | Automation | Java | Selenium | SQL
 
 I'm currently building my career in **Software Testing and Test Automation**.
 
-My focus is on understanding software requirements, designing test scenarios and test cases, identifying defects, and learning automation using **Java and Selenium**.
+My focus is on understanding requirements, designing test cases and scenarios, identifying defects, and automating web applications using **Java and Selenium**.
 
----
-
-## 🧪 Software Testing Skills
+## 🧪 Software Testing
 
 - Manual Testing
-- Functional Testing
-- Non-Functional Testing
-- Smoke Testing
-- Sanity Testing
+- Functional & Non-Functional Testing
+- Smoke & Sanity Testing
 - Regression Testing
 - Retesting
 - Acceptance Testing
@@ -27,58 +23,41 @@ My focus is on understanding software requirements, designing test scenarios and
 - Equivalence Partitioning
 - Web Application Testing
 
----
-
 ## 🤖 Automation Testing
 
 - Java
 - Selenium WebDriver
+- WebDriver & Web Elements
 - Locators
-- Web Elements
-- Browser Automation
 - XPath
 - CSS Selectors
-- Test Automation Basics
+- Browser Automation
+- Automation Test Cases
 
----
-
-## 🗄️ Database Testing
+## 🗄️ SQL & Database Testing
 
 - SQL
 - MySQL
-- SELECT
-- WHERE
-- GROUP BY
-- HAVING
-- ORDER BY
-- JOINs
+- Joins
 - Subqueries
 - Aggregate Functions
+- GROUP BY & HAVING
+- Data Validation
 
----
+## 💻 Java
 
-## 💻 Programming
-
-**Java**
-
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Arrays
-- Methods
-- Constructors
+- Core Java
 - OOPs
+- Classes & Objects
+- Constructors
 - Encapsulation
 - Inheritance
 - Polymorphism
 - Abstraction
 - Interfaces
-- Method Overloading
-- Method Overriding
+- Method Overloading & Overriding
 - Exception Handling
-
----
+- Arrays, Loops & Methods
 
 ## 🌐 Web Testing
 
@@ -92,61 +71,38 @@ My focus is on understanding software requirements, designing test scenarios and
 - Positive & Negative Testing
 - UI Testing
 
----
-
 ## 📂 Projects
 
-### 🧪 Manual Testing Projects
+### 🧪 Manual Testing
 
-Practice projects covering:
+Test scenarios, test cases, functional testing, negative testing, boundary testing, validation testing, and defect reporting.
 
-- Test Scenarios
-- Test Cases
-- Positive Testing
-- Negative Testing
-- Boundary Testing
-- Validation Testing
-- Defect Reporting
+### 🤖 Selenium Automation
 
-### 🤖 Selenium Automation Projects
-
-Java + Selenium projects focused on automating web applications and practicing:
-
-- WebDriver
-- Locators
-- Web Elements
-- Browser Actions
-- XPath
-- Automation Test Cases
+Java + Selenium projects focused on web application automation, locators, WebDriver, web elements, and automated test cases.
 
 ### ☕ Java Practice
 
-Java programs covering core Java and OOP concepts required for Selenium automation.
+Core Java and OOP practice for building a strong foundation in Selenium automation.
 
 ### 🗄️ SQL Practice
 
-SQL queries and database exercises for testing and data validation.
-
----
+SQL queries and database testing exercises for data validation.
 
 ## 🛠️ Tools
 
-- IntelliJ IDEA
-- VS Code
-- Git
-- GitHub
-- Selenium WebDriver
-- MySQL
-
----
+**Testing:** Selenium WebDriver  
+**Programming:** Java  
+**Database:** MySQL  
+**Version Control:** Git & GitHub  
+**IDE:** IntelliJ IDEA, VS Code  
+**Web:** HTML
 
 ## 🎓 Education
 
 **MBA — Rural Management & Entrepreneurship Development**
 
 **B.Sc. — Biotechnology**
-
----
 
 ## 🎯 Career Goal
 
